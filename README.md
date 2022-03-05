@@ -4,7 +4,7 @@ main_string = "Qtecs" <br/>
 sub_string = "Qtec" <br/>
 main_length = 5 <br/>
 sub_length = 4 <br/>
-result = 0 \n <br/><br/>
+result = 0  <br/><br/>
 
 outer loop will run from 0 to (main_length - sub_length)<br/>
 while i = 0 , j = 0 , then main_string[0+0] = Q  and  sub_string[0] = Q <br/>
