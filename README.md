@@ -1,6 +1,6 @@
 # How the Algorithm Works:
 
-main_string = "Qtecs" \n
+main_string = "Qtecs" <br/>
 sub_string = "Qtec" \n
 main_length = 5 \n
 sub_length = 4 \n
