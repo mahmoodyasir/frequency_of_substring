@@ -1,10 +1,10 @@
 # How the Algorithm Works:
 
 main_string = "Qtecs" \n
-sub_string = "Qtec"
-main_length = 5
-sub_length = 4
-result = 0
+sub_string = "Qtec" \n
+main_length = 5 \n
+sub_length = 4 \n
+result = 0 \n
 
 outer loop will run from 0 to (main_length - sub_length)
 while i = 0 , j = 0 , then main_string[0+0] = Q  and  sub_string[0] = Q 
